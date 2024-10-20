@@ -1,0 +1,459 @@
+Alameda
+12-17
+125790	125790	69097	78778
+Alameda
+18-49
+709491	709491	539926	592451
+Alameda
+50-64
+315857	315857	246616	265945
+Alameda
+65+
+285115	285115	201061	217529
+Alameda
+American Indian or Alaska Native
+4920	4211	3071	3509
+Alameda
+Asian
+442180	378439	354283	382023
+Alameda
+Black or African American
+192346	164627	74559	82319
+Alameda
+Latino
+392842	336127	162082	182738
+Alameda
+Multiracial
+71378	61085	18114	19126
+Alameda
+Native Hawaiian or Other Pacific Islander
+13474	11530	7992	8846
+Alameda
+Other Race
+0	0	80573	89752
+Alameda
+Unknown
+0	0	40598	49453
+Alameda
+White
+561194	480234	315491	337107
+Alameda
+1
+123936	100860	63171	71602
+Alameda
+2
+341364	297895	194031	213709
+Alameda
+3
+363683	318095	235229	255169
+Alameda
+4
+829964	709926	561808	611119
+Contra Costa
+12-17
+91671	91671	51275	58304
+Contra Costa
+18-49
+462085	462085	325348	352784
+Contra Costa
+50-64
+234009	234009	186874	197791
+Contra Costa
+65+
+217230	217230	168390	177442
+Contra Costa
+American Indian or Alaska Native
+3336	2890	1837	2038
+Contra Costa
+Asian
+177574	153935	123496	131268
+Contra Costa
+Black or African American
+104798	90854	44480	48711
+Contra Costa
+Latino
+296045	256554	140759	155000
+Contra Costa
+Multiracial
+46599	40391	13066	13825
+Contra Costa
+Native Hawaiian or Other Pacific Islander
+5274	4570	5339	5786
+Contra Costa
+Other Race
+0	0	51913	57368
+Contra Costa
+Unknown
+0	0	38078	42244
+Contra Costa
+White
+525881	455801	312946	330154
+Contra Costa
+1
+31210	25274	17350	19350
+Contra Costa
+2
+313443	262581	171124	187292
+Contra Costa
+3
+87463	72962	48512	52535
+Contra Costa
+4
+702989	606352	488710	520598
+Marin
+12-17
+19172	19172	14940	16516
+Marin
+18-49
+83329	83329	71970	79127
+Marin
+50-64
+57464	57464	48427	52232
+Marin
+65+
+70527	70527	51503	54663
+Marin
+American Indian or Alaska Native
+620	554	253	282
+Marin
+Asian
+15372	13730	11828	12652
+Marin
+Black or African American
+6989	6237	2598	2890
+Marin
+Latino
+44539	39757	27089	30924
+Marin
+Multiracial
+7672	6848	2601	2736
+Marin
+Native Hawaiian or Other Pacific Islander
+471	420	472	527
+Marin
+Other Race
+0	0	9065	10174
+Marin
+Unknown
+0	0	3755	4535
+Marin
+White
+182502	162946	129194	137850
+Marin
+1
+0	0	0	0
+Marin
+2
+0	0	0	0
+Marin
+3
+1124	958	719	783
+Marin
+4
+254685	221429	183021	198355
+Napa
+12-17
+10396	10396	5106	6171
+Napa
+18-49
+56305	56305	36068	42031
+Napa
+50-64
+26166	26166	21151	23740
+Napa
+65+
+29730	29730	22935	25097
+Napa
+American Indian or Alaska Native
+538	472	204	242
+Napa
+Asian
+9858	8675	6203	6881
+Napa
+Black or African American
+2519	2217	1273	1425
+Napa
+Latino
+49539	43568	21717	26515
+Napa
+Multiracial
+3148	2769	1104	1198
+Napa
+Native Hawaiian or Other Pacific Islander
+317	275	461	516
+Napa
+Other Race
+0	0	5422	6188
+Napa
+Unknown
+0	0	4650	5338
+Napa
+White
+73450	64621	44233	48790
+Napa
+1
+0	0	0	0
+Napa
+2
+763	666	425	504
+Napa
+3
+123675	107217	73629	83900
+Napa
+4
+15800	14312	9305	10563
+San Francisco
+12-17
+41519	41519	26418	29997
+San Francisco
+18-49
+405448	405448	330530	361706
+San Francisco
+50-64
+167219	167219	131213	141773
+San Francisco
+65+
+170442	170442	113621	124922
+San Francisco
+American Indian or Alaska Native
+2131	1874	1184	1361
+San Francisco
+Asian
+280107	246298	213449	231051
+San Francisco
+Black or African American
+45990	40434	23384	26276
+San Francisco
+Latino
+136109	119660	85519	96950
+San Francisco
+Multiracial
+32458	28538	10351	10936
+San Francisco
+Native Hawaiian or Other Pacific Islander
+3377	2967	2445	2751
+San Francisco
+Other Race
+0	0	29498	33101
+San Francisco
+Unknown
+0	0	20370	23926
+San Francisco
+White
+392257	344857	215604	232127
+San Francisco
+1
+34400	32068	24102	26968
+San Francisco
+2
+80593	72474	57801	65043
+San Francisco
+3
+242659	222177	166225	182212
+San Francisco
+4
+516880	465504	349412	379231
+San Mateo
+12-17
+59817	59817	35117	40202
+San Mateo
+18-49
+292785	292785	245088	270742
+San Mateo
+50-64
+158495	158495	123692	133999
+San Mateo
+65+
+155155	155155	106364	116363
+San Mateo
+American Indian or Alaska Native
+1319	1133	1053	1260
+San Mateo
+Asian
+195921	168473	150360	161842
+San Mateo
+Black or African American
+19791	17006	8600	9504
+San Mateo
+Latino
+203839	175218	76236	88770
+San Mateo
+Multiracial
+28152	24201	9514	10065
+San Mateo
+Native Hawaiian or Other Pacific Islander
+11144	9581	4867	5416
+San Mateo
+Other Race
+0	0	44964	50282
+San Mateo
+Unknown
+0	0	20539	24951
+San Mateo
+White
+314824	270640	194144	209289
+San Mateo
+1
+0	0	0	0
+San Mateo
+2
+34867	29161	20570	23653
+San Mateo
+3
+85171	74162	53020	58841
+San Mateo
+4
+617742	533828	415079	454443
+Santa Clara
+12-17
+160904	160904	94556	106290
+Santa Clara
+18-49
+826087 826087	671828	734423
+Santa Clara
+50-64
+375095	375095	304434	329883
+Santa Clara
+65+
+319635	319635	231426	251891
+Santa Clara
+American Indian or Alaska Native
+4718	4017	2448	2846
+Santa Clara
+Asian
+648305	552121	527612	567419
+Santa Clara
+Black or African American
+47157	40157	23494	25897
+Santa Clara
+Latino
+541541	461147	221893	251458
+Santa Clara
+Multiracial
+64802	55183	22807	24037
+Santa Clara
+Native Hawaiian or Other Pacific Islander
+7004	5964	6966	7642
+Santa Clara
+Other Race
+0	0	80091	89337
+Santa Clara
+Unknown
+0	0	39936	48093
+Santa Clara
+White
+661300	563132	377033	405869
+Santa Clara
+1
+0	0	0	0
+Santa Clara
+2
+255932	216505	148072	165294
+Santa Clara
+3
+390111	331649	242780	267750
+Santa Clara
+4
+1302472	1112268	909279	987173
+Solano
+12-17
+34401	34401	11729	15382
+Solano
+18-49
+180659	180659	88803	107737
+Solano
+50-64
+85197	85197	56813	66754
+Solano
+65+
+80340	80340	54158	63747
+Solano
+American Indian or Alaska Native
+1994	1707	872	1158
+Solano
+Asian
+62602	53515	36990	43724
+Solano
+Black or African American
+62857	53718	22391	26247
+Solano
+Latino
+116767	99779	33433	44661
+Solano
+Multiracial
+24178	20665	5545	6056
+Solano
+Native Hawaiian or Other Pacific Islander
+3559	3046	3392	4070
+Solano
+Other Race
+0	0	20298	23625
+Solano
+Unknown
+0	0	7440	10381
+Solano
+White
+173369	148167	81154	93821
+Solano
+1
+41212	34505	18216	23063
+Solano
+2
+118050	99313	52591	65238
+Solano
+3
+213908	183354	97366	114389
+Solano
+4
+67589	58366	39854	46934
+Sonoma
+12-17
+35356	35356	16069	19060
+Sonoma
+18-49
+196105	196105	123630	139006
+Sonoma
+50-64
+97692	97692	76571	83512
+Sonoma
+65+
+112490	112490	83493	91686
+Sonoma
+American Indian or Alaska Native
+3683	3248	1229	1827
+Sonoma
+Asian
+19532	17225	12835	13940
+Sonoma
+Black or African American
+7843	6911	3694	4192
+Sonoma
+Latino
+134204	118310	58623	68432
+Sonoma
+Multiracial
+13762	12133	3917	4296
+Sonoma
+Native Hawaiian or Other Pacific Islander
+1532	1351	1148	1297
+Sonoma
+Other Race
+0	0	19779	22799
+Sonoma
+Unknown
+0	0	7794	9695
+Sonoma
+White
+320323	282465	190788	206876
+Sonoma
+1
+0	0	0	0
+Sonoma
+2
+49443	42042	25405	29154
+Sonoma
+3
+292115	254934	169101	187969
+Sonoma
+4
+157879	138044	98509	108463
